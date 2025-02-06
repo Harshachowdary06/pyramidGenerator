@@ -2,6 +2,29 @@ body{
     font-family: monospace;
 }
 
+#inputSection{
+    margin-top: 15dvh;
+}
+
+#inputSection button{
+    
+    padding: 10px;
+    border: none;
+    font-family: monospace;
+    font-size: xx-large;
+    font-weight: bolder;
+    background-color: antiquewhite;
+    border-radius: 15px;
+}
+
+#inputBox{
+    width: 60dvw;
+    height: 3dvh;
+    border: 3px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
 .screen{
     width: 60dvw;
     height: 40dvh;
