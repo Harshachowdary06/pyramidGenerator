@@ -2,6 +2,9 @@ body{
     font-family: monospace;
 }
 
+/*
+This section is used to style the input section elements:
+*/
 #inputSection{
     margin-top: 15dvh;
 }
@@ -11,10 +14,14 @@ body{
     padding: 10px;
     border: none;
     font-family: monospace;
-    font-size: xx-large;
+    font-size: x-large;
     font-weight: bolder;
     background-color: antiquewhite;
     border-radius: 15px;
+}
+#Build:hover{
+    font-size: xx-large;
+    padding: 5px;
 }
 
 #inputBox{
@@ -24,6 +31,8 @@ body{
     border-radius: 10px;
     font-size: 20px;
 }
+
+/*This section is used to style the screen part*/
 
 .screen{
     width: 60dvw;
@@ -43,3 +52,11 @@ body{
     font-size: larger;
     font-weight: bolder;
 }
+
+/* Information section styling starts from here*/
+
+#infoParaList{
+    list-style-type: none;;
+}
+
+/*Footer*/
