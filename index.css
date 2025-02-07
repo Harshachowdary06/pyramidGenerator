@@ -53,6 +53,11 @@ This section is used to style the input section elements:
     font-weight: bolder;
 }
 
+#buildImage{
+    text-align: center;
+    font-size: 3dvw;
+}
+
 /* Information section styling starts from here*/
 
 #infoParaList{
