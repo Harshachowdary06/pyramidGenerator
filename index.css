@@ -29,8 +29,9 @@ This section is used to style the input section elements:
     height: 3dvh;
     border: 3px solid black;
     border-radius: 10px;
-    font-size: 20px;
+    font-size: x-large;
 }
+/*make sure min width should be 600px */
 
 /*This section is used to style the screen part*/
 
@@ -55,7 +56,7 @@ This section is used to style the input section elements:
 
 #buildImage{
     text-align: center;
-    font-size: 3dvw;
+    font-size: 3dvh;
 }
 
 /* Information section styling starts from here*/
